@@ -1,0 +1,10 @@
+2023-08-28T11:38:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-content\plugins\klarna-payments-for-woocommerce\classes\class-kp-assets.php on line 8
+
+2023-08-28T11:38:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Templates\ArchiveProductTemplatesCompatibility.php on line 11
+
+2023-08-28T11:38:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Utilities\LocalPickupUtils.php on line 35
+
+2023-08-28T11:39:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-includes\Requests\src\Transport\Curl.php on line 534
+
+2023-08-28T12:32:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-admin\includes\class-wp-filesystem-direct.php on line 82
+

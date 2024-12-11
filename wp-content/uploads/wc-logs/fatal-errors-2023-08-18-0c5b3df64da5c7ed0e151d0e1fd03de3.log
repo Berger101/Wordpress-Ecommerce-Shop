@@ -1,0 +1,8 @@
+2023-08-18T10:15:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php on line 9
+
+2023-08-18T10:16:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-includes\functions.php on line 6651
+
+2023-08-18T10:16:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-includes\class-wpdb.php on line 2431
+
+2023-08-18T10:16:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-includes\Requests\src\Transport\Curl.php on line 534
+

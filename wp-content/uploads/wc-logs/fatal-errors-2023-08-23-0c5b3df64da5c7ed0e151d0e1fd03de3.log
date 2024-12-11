@@ -1,0 +1,20 @@
+2023-08-23T10:50:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-content\plugins\klarna-order-management-for-woocommerce\classes\request\class-kom-request.php on line 361
+
+2023-08-23T10:50:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-content\plugins\woocommerce\src\Internal\Admin\WCAdminSharedSettings.php on line 8
+
+2023-08-23T10:50:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-content\plugins\woocommerce\src\Internal\Admin\Translations.php on line 363
+
+2023-08-23T10:50:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-content\plugins\woocommerce\src\Internal\Admin\SystemStatusReport.php on line 9
+
+2023-08-23T10:50:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-content\plugins\woocommerce\src\Internal\Admin\Schedulers\ImportScheduler.php on line 8
+
+2023-08-23T10:51:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-content\plugins\ti-woocommerce-wishlist\integrations\shopengine.php on line 16
+
+2023-08-23T10:51:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-includes\Requests\src\Transport\Curl.php on line 534
+
+2023-08-23T11:23:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-content\themes\oceanwp\inc\oceanwp-theme-icons.php on line 9
+
+2023-08-23T11:23:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-content\plugins\ocean-extra\includes\widgets\tags.php on line 9
+
+2023-08-23T11:33:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-content\plugins\elementor\includes\elements\section.php on line 4
+

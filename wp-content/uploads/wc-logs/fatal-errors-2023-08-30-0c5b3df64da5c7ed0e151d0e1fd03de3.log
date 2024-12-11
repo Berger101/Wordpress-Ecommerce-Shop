@@ -1,0 +1,18 @@
+2023-08-30T09:13:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-includes\widgets\class-wp-widget-archives.php on line 233
+
+2023-08-30T09:13:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-includes\widgets\class-wp-widget-archives.php on line 233
+
+2023-08-30T09:13:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-includes\widgets\class-wp-widget-archives.php on line 233
+
+2023-08-30T09:13:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-content\plugins\translatepress-multilingual\includes\class-upgrade.php on line 964
+
+2023-08-30T09:13:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-content\plugins\translatepress-multilingual\includes\class-upgrade.php on line 964
+
+2023-08-30T09:13:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-content\plugins\wordpress-seo\inc\class-wpseo-replacement-variable.php on line 77
+
+2023-08-30T09:14:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-includes\Requests\src\Transport\Curl.php on line 534
+
+2023-08-30T09:47:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\AssetsController.php on line 347
+
+2023-08-30T09:48:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\shop.test\wp-content\plugins\ocean-extra\includes\widgets\contact-info.php on line 10
+

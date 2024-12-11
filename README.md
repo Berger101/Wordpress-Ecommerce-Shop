@@ -114,3 +114,50 @@ This is the account page where users have complete control of their account.
 
 ---
 
+### Highlights:
+- It describes the main features your WordPress site offers.
+- It includes the active plugins that make the site function as intended.
+- Screenshots are embedded to visually showcase parts of the site.
+  
+Feel free to tweak the content if there are any other specific features or plugins you’d like to include!
+
+## Installation
+
+Follow these steps to set up the WordPress eCommerce shop on your local machine or server.
+
+### Prerequisites:
+- A server running PHP and MySQL (e.g., using MAMP, XAMPP, or any LAMP stack).
+- WordPress installation.
+- A MySQL database.
+
+### Steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Berger101/Wordpress-Ecommerce-Shop.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd your-repository-name
+    ```
+
+3. Set up the database:
+    - Create a MySQL database.
+    - Update the `wp-config.php` file with your database credentials:
+    ```php
+    define( 'DB_NAME', 'your_database_name' );
+    define( 'DB_USER', 'root' );  // or your MySQL user
+    define( 'DB_PASSWORD', '' );  // or your MySQL password
+    define( 'DB_HOST', 'localhost' ); // add port used
+    ```
+
+4. Import the database dump (if provided) or set up your WordPress installation through the web interface.
+
+5. Visit the website:
+    - For local development: `http://localhost:8888/your-project-name`
+
+## Usage
+
+Once the installation is complete, you can begin using your WordPress eCommerce shop by following these steps:
+

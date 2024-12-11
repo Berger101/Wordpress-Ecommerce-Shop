@@ -4,9 +4,11 @@ Welcome to the **WordPress eCommerce Shop** project! This is a demo site for a f
 
 ## Table of Contents
 - [About](#about)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Plugins and Themes](#plugins-and-themes)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Plugins and Themes](#plugins-and-themes)
 - [Contributing](#contributing)
 - [License](#license)
 

@@ -239,3 +239,22 @@ Once you're comfortable with the setup, you can begin adding products, managing 
 - Username: `admin`
 - Password: `adminpassword`
 
+## Contributing
+
+Contributions to this project are welcome! Feel free to fork the repository, create a branch, and submit a pull request with your improvements or bug fixes.
+
+### Steps to contribute:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-name`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add new feature'`).
+5. Push to your branch (`git push origin feature-name`).
+6. Submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Feel free to customize this `README.md` template to match your specific project details and needs! You can add more sections, update the installation process, or mention specific technologies or plugins you're using.

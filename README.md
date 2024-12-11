@@ -10,6 +10,8 @@ Welcome to the **WordPress eCommerce Shop** project! This is a demo site for a f
 - [Contributing](#contributing)
 - [License](#license)
 
+---
+
 ## About
 
 This project is a WordPress-based eCommerce website designed to showcase products, accept orders, and integrate payment gateways. The site is fully responsive and features a custom theme designed to provide a seamless user experience.
@@ -61,6 +63,8 @@ This WordPress-based eCommerce shop includes the following key features:
    - Easy-to-use WordPress dashboard with all the necessary tools for managing products, orders, and users.
    - View orders, manage inventory, and process payments all from a single interface.
 
+---
+
 ## Screenshots
 
 ### Homepage
@@ -92,6 +96,8 @@ This is the checkout page where users can complete their orders.
 ![Checkout page view](assets/screenshots/shopaccount.png)
 
 This is the account page where users have complete control of their account.
+
+---
 
 ## Plugins and Themes
 
@@ -173,6 +179,8 @@ Follow these steps to set up the WordPress eCommerce shop on your local machine 
 5. Visit the website:
     - For local development: `http://localhost:8888/your-project-name`
 
+---
+
 ## Usage
 
 Once the installation is complete, you can begin using your WordPress eCommerce shop by following these steps:
@@ -238,6 +246,8 @@ Once you're comfortable with the setup, you can begin adding products, managing 
 ### Admin Login:
 - Username: `admin`
 - Password: `adminpassword`
+
+---
 
 ## Contributing
 

@@ -93,3 +93,24 @@ This is the checkout page where users can complete their orders.
 
 This is the account page where users have complete control of their account.
 
+## Plugins and Themes
+
+### Active Plugins:
+- **Classic Widgets**: Restores the classic widgets interface in Appearance > Widgets and the Customizer, disabling the block editor for widgets.
+- **Elementor**: Drag-and-drop page builder for designing pages with pixel-perfect control.
+- **Klarna Order Management for WooCommerce**: Provides order management for Klarna Payments and Klarna Checkout gateways.
+- **Klarna Payments for WooCommerce**: Adds Klarna Payments as a payment method for WooCommerce.
+- **Ocean Extra**: Adds extra features and flexibility to the OceanWP theme for a premium experience.
+- **Product Slider for WooCommerce by PickPlugins**: Adds a fully responsive product slider for showcasing products.
+- **Really Simple SSL**: Ensures SSL is enabled and improves site security.
+- **Sticky Menu (or Anything!) on Scroll**: Makes any element, like a navigation menu, stick to the top as you scroll.
+- **TI WooCommerce Wishlist**: Adds a wishlist feature to WooCommerce for users to save products for later.
+- **TranslatePress - Multilingual**: A front-end translation editor for translating your WordPress site.
+- **WooCommerce**: An eCommerce toolkit that helps you sell anything beautifully.
+- **WooCommerce Product Image Flipper**: Shows a secondary product image when hovering over products.
+- **WordPress Importer**: Import posts, pages, and media from a WordPress export file.
+- **WP Migrate Lite**: Migrate your database, including media, themes, and plugins.
+- **Yoast SEO**: Helps improve your site’s search engine optimization (SEO).
+
+---
+

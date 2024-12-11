@@ -61,3 +61,35 @@ This WordPress-based eCommerce shop includes the following key features:
    - Easy-to-use WordPress dashboard with all the necessary tools for managing products, orders, and users.
    - View orders, manage inventory, and process payments all from a single interface.
 
+## Screenshots
+
+### Homepage
+![Screenshot of the homepage](assets/screenshots/shop.png)
+
+This is the screenshot of the homepage of the WordPress site.
+
+### Product Page
+![Product page view](assets/screenshots/shopcategory.png)
+
+Here is how the product page looks when viewed by customers.
+
+### Product Detail Page
+![Checkout page view](assets/screenshots/shopdetails.png)
+
+Here is how the product detail page looks when viewed by customers.
+
+### Wishlist Page
+![Checkout page view](assets/screenshots/shopwishlist.png)
+
+This is the wishlist page where users can favorite their products.
+
+### Checkout Page
+![Checkout page view](assets/screenshots/shopcheckout.png)
+
+This is the checkout page where users can complete their orders.
+
+### Account Page
+![Checkout page view](assets/screenshots/shopaccount.png)
+
+This is the account page where users have complete control of their account.
+

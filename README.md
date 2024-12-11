@@ -177,3 +177,65 @@ Follow these steps to set up the WordPress eCommerce shop on your local machine 
 
 Once the installation is complete, you can begin using your WordPress eCommerce shop by following these steps:
 
+### Admin Dashboard
+- **Login**: 
+  - Go to `http://localhost:8888/shop.test/wp-login.php` (or the appropriate URL based on your setup).
+  - Login using your admin credentials (e.g., `admin` and your password).
+
+### Managing Products
+- **Add New Products**:
+  1. From the admin dashboard, navigate to **Products > Add New**.
+  2. Add your product title, description, and other details like price, SKU, and images.
+  3. Choose a product category from the available categories.
+  4. Set the product's featured image and gallery images.
+  5. Once completed, click **Publish** to make the product live.
+
+- **Product Variations** (For variable products like clothing or accessories):
+  - Set up product attributes and variations under the **Product Data** section.
+
+### Managing Orders
+- **View Orders**: 
+  - Navigate to **WooCommerce > Orders** in the dashboard to view and manage customer orders.
+  
+- **Order Management with Klarna**: 
+  - If using Klarna for payments, navigate to **WooCommerce > Settings > Klarna Payments** to configure and manage orders and payments through Klarna.
+
+### Managing Users
+- **Customer Accounts**: 
+  - Customers can register on your site and manage their accounts by navigating to the **My Account** page.
+  
+- **Order History**: 
+  - Users can track their orders from their account page.
+
+### Translation and Multilingual Support
+- **Translate Your Site**: 
+  - Using **TranslatePress - Multilingual**, you can translate your site into multiple languages. Visit **TranslatePress > Settings** to manage the languages and translations.
+
+### Front-End Editing
+- **Page Building with Elementor**: 
+  - Use **Elementor** to drag and drop elements and build custom pages. Go to **Pages > Add New**, and click **Edit with Elementor** to start designing.
+  
+- **Sticky Navigation Menu**: 
+  - The **Sticky Menu (or Anything!) on Scroll** plugin will make any page element (like your navigation menu) stick to the top of the screen when you scroll.
+
+### Wishlist Feature
+- **TI WooCommerce Wishlist**:
+  - Customers can add products to their wishlist for later purchase. This feature is enabled by the **TI WooCommerce Wishlist** plugin.
+
+### Other Features
+- **Product Image Flipper**:
+  - The **WooCommerce Product Image Flipper** plugin allows customers to view a secondary image on hover (ideal for products like clothing that have multiple views).
+
+- **SSL and Security**:
+  - The **Really Simple SSL** plugin ensures your site is using SSL encryption for secure connections.
+
+### Additional Customizations
+- **Custom Widgets**: 
+  - The **Classic Widgets** plugin restores the classic widgets interface in **Appearance > Widgets**, allowing you to customize sidebars and footers.
+
+Once you're comfortable with the setup, you can begin adding products, managing orders, and customizing the design further with Elementor and your chosen plugins. Don't forget to update your plugins regularly for the latest features and security patches.
+
+### Admin Login:
+- Username: `admin`
+- Password: `adminpassword`
+

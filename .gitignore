@@ -1,0 +1,20 @@
+# Ignore WordPress core files
+/wp-admin/
+/wp-includes/
+
+# Ignore wp-config.php (contains sensitive information)
+/wp-config.php
+
+# Ignore node_modules (if using npm)
+/node_modules/
+
+# Ignore database backups, logs, and cache
+/wp-content/cache/
+/wp-content/logs/
+/wp-content/tmp/
+
+# Ignore uploads (optional)
+# /wp-content/uploads/
+
+# Ignore editor backup files
+*.swp
